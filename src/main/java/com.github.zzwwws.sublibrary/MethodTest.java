@@ -6,6 +6,6 @@ package com.github.zzwwws.sublibrary;
 public class MethodTest {
 
     public static void A(){
-        System.out.println("MethodTest===========>A");
+        System.out.println("MethodTestNewNew===========>A");
     }
 }
